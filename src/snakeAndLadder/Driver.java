@@ -10,9 +10,7 @@ public class Driver {
 		game.addPlayer(new Player("A"));
 		game.addPlayer(new Player("B"));
 		game.addPlayer(new Player("C"));
-		
 		game.launch();
-
 	}
 
 }
