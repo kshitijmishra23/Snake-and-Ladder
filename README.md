@@ -27,3 +27,8 @@ Design the game of Snake & Ladder
 ### Future Scope
 - The game can be played by more than one dices. (i.e. if there are two dices then the numbers from 2 to 12 will be generated).
 - On getting a 6, you get another turn and on getting 3 consecutive 6s, all the three of those get cancelled.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Class Diagram
+![Snake and Ladder](https://user-images.githubusercontent.com/28945755/122057213-01c9e180-ce08-11eb-9a37-a3e711663623.png)
